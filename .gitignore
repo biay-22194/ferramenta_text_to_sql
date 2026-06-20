@@ -1,0 +1,17 @@
+# Ignorar ambiente virtual Python
+venv/
+env/
+
+# Ignorar pastas de memória do Vanna/ChromaDB
+memoria_vanna/
+chroma.sqlite3
+*-*-*-*-*
+
+# Ignorar configurações do editor
+.vscode/
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
+
+aaaa.txt
