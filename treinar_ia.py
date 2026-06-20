@@ -18,7 +18,7 @@ vn = SistemaVanna(config={
 })
 
 # Treinamento de regras, documentação e queries de exemplo
-print("🧠 Salvando regras, documentação e exemplos na memória...")
+print(" Salvando regras, documentação e exemplos na memória...")
 
 vn.train(documentation="A tabela 'instructor' armazena os IDs, nomes, departamentos e salários de cada instrutor ou professor.")
 vn.train(documentation="A tabela 'classroom' armazena em qual prédio a sala de aula está localizada, seu número e capacidade. ")
