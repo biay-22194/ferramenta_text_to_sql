@@ -33,7 +33,7 @@ pip install psycopg2-binary
 pip install streamlit
 ```
 
-7. Baixe/copie os arquivos deste github. Para rodar cada um deles faça nessa ordem:
+7. Baixe/copie os arquivos Python deste github. Para rodar cada um deles faça nessa ordem:
 ```
 python treinar_ia.py
 streamlit run app.py
