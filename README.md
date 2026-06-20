@@ -38,3 +38,4 @@ pip install streamlit
 python treinar_ia.py
 streamlit run app.py
 ```
+Obs: lembre de configurar o banco e suas respectivas conexões (localhost, user...).
